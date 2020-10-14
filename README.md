@@ -3,6 +3,7 @@
 ## Libraries Used 
 - Numpy
 - Pandas
+- CV2
 ## Models Used
 - Haar Cascades Classifier
 ## Algorithm Used
