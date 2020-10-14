@@ -8,4 +8,4 @@
 ## Algorithm Used
 - KNN
 ## How It Works
-<img src="https://miro.medium.com/max/8064/1*mQ-dAq_86glNM67GBVV5ew.jpeg" alt="Face_Recognition" heights="200px" width="200px">
+<img src="https://miro.medium.com/max/8064/1*mQ-dAq_86glNM67GBVV5ew.jpeg" alt="Face_Recognition" heights="500px" width="500px">
